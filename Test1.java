@@ -7,7 +7,7 @@ public class Test1 {
 		
 		while(counter < 10)
 		{
-			System.out.println(i);
+			System.out.println(counter);
 			counter++;
 		}
 
